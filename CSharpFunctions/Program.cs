@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
+
 int[] arraydinumeri = { 2, 6, 7, 5, 3, 9 };
 stampaarrayinteri(arraydinumeri);
 
